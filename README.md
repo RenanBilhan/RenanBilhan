@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning Java and Spring
+- 🌱 I’m currently learning Java, Spring Framework, HTML and CSS3.
 
 
 
