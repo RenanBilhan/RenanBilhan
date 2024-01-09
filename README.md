@@ -2,12 +2,6 @@
 
 
 
-
-
-- 🌱 I’m currently learning Java, Spring Framework, HTML and CSS3.
-
-
-
 - 😄 Pronouns: He/his/him
 
 
