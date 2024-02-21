@@ -3,9 +3,13 @@
 
 
 - 😄 Pronouns: He/his/him
+<h1>Introducing Myself</h1>
 
+<p>Hi! I`m a software developer focused on backend/fullstack developing. I worked on projects using java Spring, Spring JPA, Spring Security, Swagger, Oracle DB, Mongo DB, Kafka, Docker and Jenkins. Im currently working with CENTRIC PLM, using JavaScript and XML.</p>
 
+<p>Im currently studying Java WebFlux and React TS too.</p>
 
+<h2>Hope you enjoy the repositories!</h2>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">  
