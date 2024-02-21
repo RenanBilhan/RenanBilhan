@@ -9,7 +9,7 @@
 
 <p>Im currently studying Java WebFlux and React TS too.</p>
 
-<h2>Hope you enjoy the repositories!</h2>
+<h2>I hope you enjoy the repositories!</h2>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">  
