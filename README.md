@@ -7,7 +7,7 @@
 
 <p>Hi! I`m a software developer focused on backend/fullstack developing. I worked on projects using java Spring, Spring JPA, Spring Security, Swagger, Oracle DB, Mongo DB, Kafka, Docker and Jenkins. Im currently working with CENTRIC PLM, using JavaScript and XML.</p>
 
-<p>Im currently studying Java WebFlux and React TS too.</p>
+<p>Im currently studying Java WebFlux, Node with Typescript and React TS too.</p>
 
 <h2>I hope you enjoy the repositories!</h2>
   
